@@ -1,0 +1,84 @@
+#ac{
+	color: #00be1e;
+}
+
+.navbar{
+	background-color: black !important;
+	font-family: 'Dancing Script', cursive;
+}
+.navbar-brand{
+	color: white !important;
+	font-size: 28px;
+}
+
+.navbar .navbar-nav li a{
+	color: white !important;
+	font-size: 18px;
+}
+
+.navbar-toggler{
+	background-color: #33352a !important;
+	color: black !important;
+	float: right !important;
+}
+/* body */
+.carousel-item{
+	max-height: 400px;
+	height: 100% !important;
+	
+}
+
+.carousel-caption{
+  padding-bottom: 140px;
+  font-size: 28px;
+  
+  
+  font-family: 'Dancing Script', cursive;
+}
+
+/* About */
+.hi{
+	background-color:whitesmoke;
+	height: 400px;
+	max-width: 700px;
+	width: 100%;
+	padding: 5px;
+	border-radius: 10px;
+	color: #000000;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-size: 17px;
+}
+#hl{
+	padding: 10px;
+	width: 250px;
+	height: 250px;
+	margin-top:90px;
+	border-radius: 200px;
+	font-family: 'Dancing Script', cursive;
+	float: left;
+}
+
+/* Resume*/
+.re{
+	background-color: whitesmoke;
+	font-size: 18px;
+	padding: 7px;
+	color: #000000;
+}
+#res{
+font-family: 'Dancing Script', cursive;
+}
+
+
+#cv{
+	background-color: #380064;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	text-decoration: none;
+	outline: none;
+	border:none;
+	border-radius: 25px;
+	text-align: center;
+	padding: 7px;
+}
